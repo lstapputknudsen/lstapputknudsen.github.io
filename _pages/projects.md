@@ -7,7 +7,7 @@ permalink: /projects/
 header:
   overlay_image: /assets/images/flat.JPG
 feature_row:
-  - image_path: /assets/images/flat.jpg
+  - image_path: /assets/images/flat.JPG
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
