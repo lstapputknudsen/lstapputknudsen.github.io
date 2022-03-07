@@ -25,4 +25,4 @@ feature_row:
 
 {% include feature_row %}
 
-hej
+This is where the projects will feature
