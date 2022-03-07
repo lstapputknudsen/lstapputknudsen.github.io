@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 header:
   overlay_image: /assets/images/flat.JPG
+  caption: "Photo by me"
 title: About me
 permalink: /
 ---

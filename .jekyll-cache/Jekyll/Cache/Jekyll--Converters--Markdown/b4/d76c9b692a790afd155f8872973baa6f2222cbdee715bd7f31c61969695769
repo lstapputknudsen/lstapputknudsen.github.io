@@ -1,0 +1,64 @@
+I"Ô<h1 id="projects-ive-been-involved-with">Projects Iâ€™ve been involved with</h1>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/flat.JPG" alt="placeholder image 1" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder 1</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting.</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/flat.jpg" alt="placeholder image 2" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder 2</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--inverse">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<p>This is where the projects will feature</p>
+:ET
