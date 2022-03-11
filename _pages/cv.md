@@ -6,3 +6,8 @@ header:
 title: "CV"
 permalink: /cv/
 ---
+# Education
+
+# Positions
+
+# Other skills
