@@ -108,9 +108,9 @@ author:
   location         : "Newcastle, Australia"
   email            : "laurits.knudsen@uon.edu.au"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:laurits.knudsen@uon.edu.au"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:laurits.knudsen@uon.edu.au"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
