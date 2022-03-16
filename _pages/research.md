@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: true
-title: 
+title: ""
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 permalink: /research/
 header:
