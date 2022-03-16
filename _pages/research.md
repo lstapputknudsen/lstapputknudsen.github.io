@@ -1,12 +1,14 @@
 ---
 layout: splash
 author_profile: true
-title: Research
+title: 
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 permalink: /research/
 header:
   overlay_image: /assets/images/flat.JPG
 ---
+
+# Research
 
 You download a pdf version of my CV [here](/assets/cv.pdf/).
 
