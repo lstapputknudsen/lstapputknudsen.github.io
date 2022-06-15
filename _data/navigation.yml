@@ -4,12 +4,14 @@ main:
     url: /
   #- title: "Projects"
   #  url: /projects/
-  - title: "Research"
-    url: /research/
+
+  #- title: "Research"
+  #  url: /research/
+  - title: "Publications"
+    url: /publications/
   - title: "Blog"
     url: /blog/
-  #- title: "CV"
-  #  url: /cv/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

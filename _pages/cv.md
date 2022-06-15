@@ -6,8 +6,30 @@ header:
 title: " "
 permalink: /cv/
 ---
-# Education
+# CV
 
-# Positions
+Download a pdf of my CV [here](link).
 
-# Other skills
+## Education
+
+PhD
+
+MA
+
+Bachelor
+
+## Positions
+
+## Skills
+
+### Technical skills
+
+### Research skills
+
+skills in managing and planning human resources
+
+### Language skills
+
+## Misc
+
+### Publications
