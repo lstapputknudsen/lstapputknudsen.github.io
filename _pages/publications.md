@@ -13,7 +13,7 @@ header:
 You can download a pdf version of my CV [here](/assets/pdfs/cv.pdf/).
 
 ## Publications
-**Knudsen, Laurits Stapput** (2021). Sådan skæres kagen: substans og struktur. *Mål og Mæle*, 42(1), 11-18. (English: How to Cut the Cake: Substance and Structure). [pdf](/assets/pdfs/knudsen-2021_mom.pdf/)
+**Knudsen, Laurits Stapput** (2021). Sådan skæres kagen: substans og struktur. *Mål og Mæle*, 42(1), 11-18. (English: How to Cut the Cake: Substance and Structure). [PDF](/knudsen-2021_mom.pdf/)
 
 **Knudsen, Laurits Stapput** (2021). *Pragmatisk og syntaktisk indflydelse på pronomenbestemmelse: En psykolingvistisk undersøgelse af possessivpronomeners referencebestemmelse i dansk*. Speciale, Københavns Universitet. (Pragmatic and Syntactic Influence on Pronoun Resolution: A Psycholinguistic Study of the Coreference Resolution of Danish Possessive Pronouns. Master's thesis, University of Copenhagen) [pdf](/assets/pdfs/knudsen-2020_ma-thesis.pdf/) [GitHub repo](https://github.com/lstapputknudsen/pronoun-resolution-in-danish_masters-thesis)
 
