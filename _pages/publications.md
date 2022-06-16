@@ -10,8 +10,6 @@ header:
 
 ## Publications and talks
 
-You can download a pdf version of my CV [here](/assets/pdfs/cv.pdf/).
-
 ### Publications
 <small> **Knudsen, Laurits Stapput** (2021). Sådan skæres kagen: substans og struktur. *Mål og Mæle*, 42(1), 11-18. (English: How to Cut the Cake: Substance and Structure). [PDF](/knudsen-2021_mom.pdf/)
 
