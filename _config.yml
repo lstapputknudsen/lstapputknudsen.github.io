@@ -105,7 +105,7 @@ author:
   name             : "Laurits Stapput Knudsen"
   avatar           : "/assets/images/laurits.jpg"
   bio              : "Laurits.knudsen@uon.edu.au"
-  location         : "Newcastle, Australia"
+  location         : "University of Newcastle, Australia"
   #email            :
   links:
     #- label: "Email"
@@ -120,9 +120,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lstapputknudsen"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-LinkedIn"
-      url: "https://au.linkedin.com/in/laurits-stapput-knudsen-aa0722168"
+    #- label: "LinkedIn"
+    #  icon: "fab fa-fw fa-LinkedIn"
+    #  url: "https://au.linkedin.com/in/laurits-stapput-knudsen-aa0722168"
 
 # Site Footer
 #footer:
