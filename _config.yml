@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "Laurits Stapput Knudsen"
   avatar           : "/assets/images/laurits.jpg"
-  bio              : "Laurits.knudsen@uon.edu.au"
+  bio              : "PhD Candidate in Linguistics"
   location         : "University of Newcastle, Australia"
   #email            :
   links:
-    #- label: "Email"
-    #  icon: "fas fa-fw fa-envelope-square"
-    #  url: "mailto:laurits.knudsen@uon.edu.au"
+    - label: "Laurits.knudsen@uon.edu.au"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:laurits.knudsen@uon.edu.au"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://lauritstapputknudsen.com"
