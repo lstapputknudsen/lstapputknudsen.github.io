@@ -11,18 +11,18 @@ permalink: /cv/
 
 ## Education
 
-**Ph.D. Candidate, linguistics**, University of Newcastle (Australia), 2021-  
+<small> **Ph.D. Candidate, linguistics**, University of Newcastle (Australia), 2021-  
 
 * <small> Thesis (working) title: *Landscape, Culture, Cognition, and Language: A Fieldwork-Based Investigation of Inter- and Intracommunity Variation*   
 Supervisors: A/prof. Bill Palmer and Dr. Catriona Malau </small>
 
-**M.A., Linguistics**, University of Copenhagen, 2021    
+<small> **M.A., Linguistics**, University of Copenhagen, 2021    
 Specialization in functional cognitive linguistics  
 
 * <small> Thesis title: *Pragmatic and Synctactic Influence on Pronoun Resolution: A Psycholinguistic Study of the Coreference Resolution of Danish Possessive Pronouns*  
 Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 
-**B.A, Linguistics**, University of Copenhagen, 2018  
+<small> **B.A, Linguistics**, University of Copenhagen, 2018  
 
 ## Skills
 
@@ -53,41 +53,41 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 
 ## Research experience
 
-**Research Intern**, University of Copenhagen, 2020  
+<small> **Research Intern**, University of Copenhagen, 2020  
 
 * <small> Researching linguistic and cognitive preferences regarding the use of different orientational systems in two varieties of Nahuatl as part of the Nahuatl Space Project. </small>
 
-**Student assistant**, IT-university of Copenhagen, 2018-2020  
+<small> **Student assistant**, IT-university of Copenhagen, 2018-2020  
 
 * <small> Annotating linguistic material for a Danish treebank project, and I writing annotation guidelines for future annotators. </small>
 
-**Student Assistant**, MIRSK, 2018  
+<small> **Student Assistant**, MIRSK, 2018  
 
 * <small> Annotating linguistic data for automatic speech-processing software. </small>
 
-**Student Assistant**, University of Copenhagen, 2017  
+<small> **Student Assistant**, University of Copenhagen, 2017  
 
 * <small> Collecting and processing data for a project on the vocabulary of 5th graders. </small>
 
-**Research Assistant**, Linguistic Fieldwork, 2017  
+<small> **Research Assistant**, Linguistic Fieldwork, 2017  
 
 * <small> Documentation of the highly endangered language Acazulco Otomí in Mexico. </small>
 
 ## Teaching experience
 
-**Sprogliga**, 2017-2019  
+<small> **Sprogliga**, 2017-2019  
 
 * <small> I have been responsible for teaching general linguistics and problem solving to Danish high schoolers to prepare them for participation in the IOL (International Linguistics Olympiad). </small>
 
-**TalentCampDK**, 2016-2019  
+<small> **TalentCampDK**, 2016-2019  
 * <small> I have been responsible for planning and teaching various courses in a broad range of linguistic subjects. TalentCampDK is an educational offer for gifted 7-9th grade students. </small>
 
 ## Grants
 
-**Frøken Maria Månssons legat**, 2020
+<small> **Frøken Maria Månssons legat**, 2020
 * <small> Travel grant to fund fieldwork in Mexico (10.000 DKK)
 
-**Københavns Universitets Internationaliseringsstipendium**, 2017
+<small> **Københavns Universitets Internationaliseringsstipendium**, 2017
 * <small> Travel grant for exchange studies at University of California (8.000 DKK), not utilised
 
 ## Professional memberships
