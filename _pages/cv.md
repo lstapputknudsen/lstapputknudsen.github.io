@@ -44,7 +44,7 @@ Specialization in functional cognitive linguistics
 ### Scientific research
 
 <small> I have experience with the following areas of scientific research:
-* <small> Data-pipelines (data collection, data management, transcription, annotation, analysis)
+* <small> Data pipelines (data collection, data management, transcription, annotation, analysis, visualisation)
 * <small> Linguistic Fieldwork
 * <small> Experimental design (mouse-tracking, eye-tracking)
 * <small> Production of elicitation materials
