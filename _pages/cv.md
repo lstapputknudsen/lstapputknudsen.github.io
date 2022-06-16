@@ -11,18 +11,18 @@ permalink: /cv/
 
 ## Education
 
-<small> **Ph.D. Candidate, linguistics**, University of Newcastle (Australia), 2021-  
+<small> **PhD Candidate, linguistics**, University of Newcastle (Australia), 2021-  
 
 * <small> Thesis (working) title: *Landscape, Culture, Cognition, and Language: A Fieldwork-Based Investigation of Inter- and Intracommunity Variation*   
 Supervisors: A/prof. Bill Palmer and Dr. Catriona Malau </small>
 
-<small> **M.A., Linguistics**, University of Copenhagen, 2021    
+<small> **MA, Linguistics**, University of Copenhagen, 2021    
 Specialization in functional cognitive linguistics  
 
 * <small> Thesis title: *Pragmatic and Synctactic Influence on Pronoun Resolution: A Psycholinguistic Study of the Coreference Resolution of Danish Possessive Pronouns*  
 Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 
-<small> **B.A, Linguistics**, University of Copenhagen, 2018  
+<small> **BA, Linguistics**, University of Copenhagen, 2018  
 
 ## Skills
 
