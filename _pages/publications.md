@@ -21,6 +21,12 @@ header:
 
 ### Talks
 
+<small> **Knudsen, Laurits Stapput**, & Bill Palmer (2022). *The structural status of expressions of spatial frames of reference*. Presented at the 14th Conference of the Association for Linguistic Typology. 15-17 December, Austin (presented virtually)
+
+<small> Blythe, Joe, **Laurits Stapput Knudsen**, Eleanor Yacopetti, & Tom Ennever (2022). *The Rotating Scene Machine – a topographical testbench for semantic typology*. Presented at the conference of the Australian Linguistic Society. 30 Nov - 2 Dec, Melbourne University.
+
+<small> **Knudsen, Laurits Stapput** (2022). *Periphrasis, grammar, and lexicon: a usage-based approach to determine the structural status of spatial expressions*. Presented at the conference of the Australian Linguistic Society. 30 Nov - 2 Dec, Melbourne University.
+
 <small> **Knudsen, Laurits Stapput**, & Magnus Pharao Hansen (2021). *Patterns of Variation in the use of spatial frames of reference in four Nahuatl varieties*. Presented at the National Science Foundation workshop "Environmental Adaptations of Spatial Grammar in Dialects of Nahuatl". 30 November-2 December. Santa Fe, New Mexico. [Abstract](https://osf.io/3fxvg)
 
 <small> **Knudsen, Laurits Stapput**, & Magnus Pharao Hansen,  (2021). *The Coding of Motion Events in ten Versions of the Frog Story” from Hueyapan, Morelos*. Presented at the National Science Foundation workshop "Environmental Adaptations of Spatial Grammar in Dialects of Nahuatl". 30 November-2 December. Santa Fe, New Mexico. [Abstract](https://osf.io/wsm9d)

@@ -53,6 +53,10 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 
 ## Research experience
 
+<small> **Research Assistant**, University of Newcastle, 2022  
+
+* <small> Managing and compiling database of nordic crime fiction. </small>
+
 <small> **Research Intern**, University of Copenhagen, 2020  
 
 * <small> Researching linguistic and cognitive preferences regarding the use of different orientational systems in two varieties of Nahuatl as part of the Nahuatl Space Project. </small>
