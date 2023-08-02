@@ -14,7 +14,7 @@ permalink: /cv/
 <small> **PhD Candidate, linguistics**, University of Newcastle (Australia), 2021-  
 
 * <small> Thesis (working) title: *Landscape, Culture, Cognition, and Language: A Fieldwork-Based Investigation of Inter- and Intracommunity Variation*   
-Supervisors: A/prof. Bill Palmer and Dr. Catriona Malau </small>
+Supervisors: A/prof. Bill Palmer and Dr Catriona Malau </small>
 
 <small> **MA, Linguistics**, University of Copenhagen, 2021    
 Specialization in functional cognitive linguistics  
@@ -22,7 +22,22 @@ Specialization in functional cognitive linguistics
 * <small> Thesis title: *Pragmatic and Synctactic Influence on Pronoun Resolution: A Psycholinguistic Study of the Coreference Resolution of Danish Possessive Pronouns*  
 Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 
-<small> **BA, Linguistics**, University of Copenhagen, 2018  
+<small> **BA, Linguistics**, University of Copenhagen, 2018
+
+## Teaching experience
+
+<small> **Lecturer**, University of Newcastle, 2023
+* <small> Lectured into the graduate level course Foundation of Linguistics (LING6910). I covered phonetics and phonology </small>
+
+<small> **Tutor**, University of Newcastle, 2023
+* <small> Ran the tutorials for the first year course Introduction to Linguistics (LING1111) </small>
+
+<small> **Sprogliga**, 2017-2019  
+
+* <small> I have been responsible for teaching general linguistics and problem solving to Danish high schoolers to prepare them for participation in the IOL (International Linguistics Olympiad). </small>
+
+<small> **TalentCampDK**, 2016-2019  
+* <small> I have been responsible for planning and teaching various courses in a broad range of linguistic subjects. TalentCampDK is an educational offer for gifted 7-9th grade students. </small>
 
 ## Skills
 
@@ -63,7 +78,7 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 
 <small> **Student assistant**, IT-university of Copenhagen, 2018-2020  
 
-* <small> Annotating linguistic material for a Danish treebank project, and I writing annotation guidelines for future annotators. </small>
+* <small> Annotating linguistic material for a Danish treebank project and writing annotation guidelines for future annotators. </small>
 
 <small> **Student Assistant**, MIRSK, 2018  
 
@@ -76,15 +91,6 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 <small> **Research Assistant**, Linguistic Fieldwork, 2017  
 
 * <small> Documentation of the highly endangered language Acazulco Otomí in Mexico. </small>
-
-## Teaching experience
-
-<small> **Sprogliga**, 2017-2019  
-
-* <small> I have been responsible for teaching general linguistics and problem solving to Danish high schoolers to prepare them for participation in the IOL (International Linguistics Olympiad). </small>
-
-<small> **TalentCampDK**, 2016-2019  
-* <small> I have been responsible for planning and teaching various courses in a broad range of linguistic subjects. TalentCampDK is an educational offer for gifted 7-9th grade students. </small>
 
 ## Grants
 

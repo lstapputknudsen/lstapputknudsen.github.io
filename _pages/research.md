@@ -12,7 +12,7 @@ Research interests
 
 ## Anthropological linguistics
 
-Understanding the complex interplay between the physical landscape, culture, cognition, and language is at the heart of my PhD, that is part of the ARC funded [OzSpace Project](ozspace.org), where I will be combining ethnographic methods with psycholinguistic experiments to explore spatial language, culture, and cognition in Indigenous Australia.
+Understanding the complex interplay between the physical landscape, culture, cognition, and language is at the heart of my PhD, that is part of the ARC funded [OzSpace Project](ozspace.org), where I combine ethnographic methods with psycholinguistic experiments to explore spatial language, culture, and cognition.
 
 Apart from my fieldwork based PhD, I've been doing linguistic fieldwork since 2017. I've worked on documenting spatial language in Nahuatl as spoken in Tequila (Veracruz), Zojualo (San Luis Potosi) and Hueyapan (Morellos) and I've also worked on documenting reciprocal constructions and spatial language in Acazulco Otomí (The state of Mexico).
 
