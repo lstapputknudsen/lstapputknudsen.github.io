@@ -21,6 +21,12 @@ header:
 
 ### Talks
 
+<small> Knudsen, Laurits Stapput, Tom Ennever, & Eleanor Yacopetti (2023). *Postural verbs and their roles in locative and existential predication in three Australian languages*. Presented at the 56th Annual Meeting of the Societas Linguistica Europaea. 29 Aug - 1 Sept, National and Kapodistrian University of Athens, Greece. 
+
+<small> Ennever, Tom, **Laurits Stapput Knudsen**, & Eleanor Yacopetti (2023). *Finding Common Ground: Frames of Reference and Differential Place Marking in three Australian languages*. Presented at the 56th Annual Meeting of the Societas Linguistica Europaea. 29 Aug - 1 Sept, National and Kapodistrian University of Athens, Greece. 
+
+<small> **Knudsen, Laurits Stapput**, Tom Ennever, Eleanor Yacopetti, Joe Blythe, Maïa Ponsonnet, Alice Gaby, & Bill Palmer (2023). *A Cognitive Discourse Analysis of task participant behaviour in elicitation situations*. Presented at the 16th International Cognitive Linguistics Conference. August 7 - 11, HHU Düsseldorf.
+
 <small> **Knudsen, Laurits Stapput**, & Bill Palmer (2022). *The structural status of expressions of spatial frames of reference*. Presented at the 14th Conference of the Association for Linguistic Typology. 15-17 December, Austin (presented virtually)
 
 <small> Blythe, Joe, **Laurits Stapput Knudsen**, Eleanor Yacopetti, & Tom Ennever (2022). *The Rotating Scene Machine – a topographical testbench for semantic typology*. Presented at the conference of the Australian Linguistic Society. 30 Nov - 2 Dec, Melbourne University.
