@@ -21,7 +21,7 @@ header:
 
 ### Talks
 
-<small> Knudsen, Laurits Stapput, Tom Ennever, & Eleanor Yacopetti (2023). *Postural verbs and their roles in locative and existential predication in three Australian languages*. Presented at the 56th Annual Meeting of the Societas Linguistica Europaea. 29 Aug - 1 Sept, National and Kapodistrian University of Athens, Greece. 
+<small> **Knudsen, Laurits Stapput**, Tom Ennever, & Eleanor Yacopetti (2023). *Postural verbs and their roles in locative and existential predication in three Australian languages*. Presented at the 56th Annual Meeting of the Societas Linguistica Europaea. 29 Aug - 1 Sept, National and Kapodistrian University of Athens, Greece. 
 
 <small> Ennever, Tom, **Laurits Stapput Knudsen**, & Eleanor Yacopetti (2023). *Finding Common Ground: Frames of Reference and Differential Place Marking in three Australian languages*. Presented at the 56th Annual Meeting of the Societas Linguistica Europaea. 29 Aug - 1 Sept, National and Kapodistrian University of Athens, Greece. 
 
