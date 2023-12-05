@@ -20,9 +20,9 @@ header:
 <small> **Knudsen, Laurits Stapput** (2018). *Reciprokke konstruktioner i Acazulco Otomí*. BA opgave, Københavns Universitet. (Reciprocal Constructions in Acazulco Otomí. BA Thesis, University of Copenhagen) [PDF](https://osf.io/cgqdw)
 
 ### Talks
-<small> **Knudsen, Laurits Stapput**, & Bill Palmer (2023). *Contextualising cardinals: The semantics of geocentric terms in Wik-Mungkan*. Presented at the conference of the Australian Linguistic Society. 30 Nov, University of Sydney.
+<small> **Knudsen, Laurits Stapput**, & Bill Palmer (2023). *Contextualising cardinals: The semantics of geocentric terms in Wik-Mungkan*. Presented at the conference of the Australian Linguistic Society. 30 Nov, University of Sydney.
 
-<small> **Knudsen, Laurits Stapput** (2023). *Anchoring semantics in the landscape: Environmental and contextual influences on spatial reference in Wik-Mungkan*. Invited talk at University of Southern Denmark, Sep 20.
+<small> **Knudsen, Laurits Stapput** (2023). *Anchoring semantics in the landscape: Environmental and contextual influences on spatial reference in Wik-Mungkan*. Invited talk at University of Southern Denmark, Sep 20.
 
 <small> **Knudsen, Laurits Stapput**, Tom Ennever, & Eleanor Yacopetti (2023). *Postural verbs and their roles in locative and existential predication in three Australian languages*. Presented at the 56th Annual Meeting of the Societas Linguistica Europaea. 29 Aug - 1 Sept, National and Kapodistrian University of Athens, Greece. 
 
