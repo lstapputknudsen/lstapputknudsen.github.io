@@ -13,8 +13,8 @@ permalink: /cv/
 
 <small> **PhD Candidate, linguistics**, University of Newcastle (Australia), 2021-  
 
-* <small> Thesis (working) title: *Landscape, Culture, Cognition, and Language: A Fieldwork-Based Investigation of Inter- and Intracommunity Variation*   
-Supervisors: A/prof. Bill Palmer and Dr Catriona Malau </small>
+* <small> Thesis title: *Language, Landscape, Culture, and Cognition in Wik-MUngkan: A sociotopographic study of spatial grammar*   
+Supervisors: Prof. Bill Palmer and Dr Catriona Malau </small>
 
 <small> **MA, Linguistics**, University of Copenhagen, 2021    
 Specialization in functional cognitive linguistics  
@@ -44,7 +44,7 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 ### Technical
 
 <small>**Linguistic software:** ELAN, FLEx, Praat, AegisSub </small>  
-<small>**Basic programming:** Python, R, LaTeX </small>  
+<small>**Basic programming:** R, Python, LaTeX </small>  
 <small>**Geo-information:** QGIS</small>  
 
 ### Languages
@@ -54,13 +54,12 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 <small>**Spanish:**	Basic communication skills</small>  
 <small>**German:**	Good comprehension</small>  
 
-<small>I have experience working with several varieties of the Indigenous Mexican language Nahuatl and a highly endangered variety of the Indigenous language Otomí.</small>
-
 ### Scientific research
 
 <small> I have experience with the following areas of scientific research:
 * <small> Data pipelines (data collection, data management, transcription, annotation, analysis, visualisation)
 * <small> Linguistic Fieldwork
+* <small> Geospatial methodologies
 * <small> Experimental design (mouse-tracking, eye-tracking)
 * <small> Production of elicitation materials
 * <small> Instructing team members in specialised software and data collection
