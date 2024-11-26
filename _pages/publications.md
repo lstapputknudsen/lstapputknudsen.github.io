@@ -12,7 +12,7 @@ header:
 
 ### Publications
 
-<small> **Knudsen, Laurits Stapput**, & Bill Palmer (forthcoming). Contextualising 'cardinals': Contextualising ‘cardinals’: The semantics of geocentric terms in Wik-Mungkan. *Australian Journal of Linguistics*.
+<small> **Knudsen, Laurits Stapput**, & Bill Palmer (forthcoming). Contextualising ‘cardinals’: The semantics of geocentric terms in Wik-Mungkan. *Australian Journal of Linguistics*.
 
 <small> **Knudsen, Laurits Stapput**, & Magnus Pharao Hansen (submitted). Frames of Reference in Nahuan Languages. In Pharao Hansen, Magnus (ed.) *Nahuatl space: Diversity of Landscape and Spatial Grammar among Nahuan Languages*.
 
