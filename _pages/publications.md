@@ -27,6 +27,13 @@ header:
 <small> **Knudsen, Laurits Stapput** (2018). *Reciprokke konstruktioner i Acazulco Otomí*. BA opgave, Københavns Universitet. (Reciprocal Constructions in Acazulco Otomí. BA Thesis, University of Copenhagen) [PDF](https://osf.io/cgqdw)
 
 ### Talks
+
+<small> **Knudsen, Laurits Stapput**, Tom Ennever, Jonathon Lum & Eleanor Yacopetti (2024). Re-framing Frames of Reference: 30 years of Man and Tree. 9th International Conference on Spatial Cognition. (Università Europea di Roma, Italy)
+
+<small> **Knudsen, Laurits Stapput** & Bill Palmer (2024). Environmental sensitivity and conceptual representations of geocentric spatial terms in Wik-Mungkan (Australia). 9th International Conference on Spatial Cognition. (Università Europea di Roma, Italy)
+
+<small> **Knudsen, Laurits Stapput** (2024). Language and landscape: anchoring meaning in the environment. Newcastle Social Science and Linguistics Seminar series.
+
 <small> **Knudsen, Laurits Stapput**, & Bill Palmer (2023). *Contextualising cardinals: The semantics of geocentric terms in Wik-Mungkan*. Presented at the conference of the Australian Linguistic Society. 30 Nov, University of Sydney.
 
 <small> **Knudsen, Laurits Stapput** (2023). *Anchoring semantics in the landscape: Environmental and contextual influences on spatial reference in Wik-Mungkan*. Invited talk at University of Southern Denmark, Sep 20.
