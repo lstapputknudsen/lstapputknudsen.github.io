@@ -12,11 +12,11 @@ header:
 
 ### Publications
 
+<small> **Knudsen, Laurits Stapput**, & Bill Palmer (forthcoming). Contextualising 'cardinals': Contextualising ‘cardinals’: The semantics of geocentric terms in Wik-Mungkan. *Australian Journal of Linguistics*.
+
 <small> **Knudsen, Laurits Stapput**, & Magnus Pharao Hansen (submitted). Frames of Reference in Nahuan Languages. In Pharao Hansen, Magnus (ed.) *Nahuatl space: Diversity of Landscape and Spatial Grammar among Nahuan Languages*.
 
-<small> **Knudsen, Laurits Stapput**, & Bill Palmer (submitted). Contextualising 'cardinals': Contextualising ‘cardinals’: The semantics of geocentric terms in Wik-Mungkan. 
-
-<small> <small> **Knudsen, Laurits Stapput**, Tom Ennever, & Eleanor Yacopetti (submitted). Posture verbs in locative and existential predication across three Australian languages. In Däbritz, Bastille, Budzisch (eds.), *Locative and Existential predication - core and perphery*.
+<small> Eleanor Yacopetti, **Knudsen, Laurits Stapput**, & Tom Ennever (forthcoming). Posture verbs in locative and existential predication across three Australian languages. In Däbritz, Bastille, Budzisch (eds.), *Locative and Existential predication - core and perphery*.
 
 <small> **Knudsen, Laurits Stapput** (2021). Sådan skæres kagen: substans og struktur. *Mål og Mæle*, 42(1), 11-18. (English: How to Cut the Cake: Substance and Structure). [PDF](https://osf.io/g8ds3)
 
