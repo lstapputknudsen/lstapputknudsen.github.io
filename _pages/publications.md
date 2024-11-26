@@ -11,6 +11,13 @@ header:
 ## Publications and talks
 
 ### Publications
+
+<small> **Knudsen, Laurits Stapput**, & Magnus Pharao Hansen (submitted). Frames of Reference in Nahuan Languages. In Pharao Hansen, Magnus (ed.) *Nahuatl space: Diversity of Landscape and Spatial Grammar among Nahuan Languages*.
+
+<small> **Knudsen, Laurits Stapput**, & Bill Palmer (submitted). Contextualising 'cardinals': Contextualising ‘cardinals’: The semantics of geocentric terms in Wik-Mungkan. 
+
+<small> <small> **Knudsen, Laurits Stapput**, Tom Ennever, & Eleanor Yacopetti (submitted). Posture verbs in locative and existential predication across three Australian languages. In Däbritz, Bastille, Budzisch (eds.), *Locative and Existential predication - core and perphery*.
+
 <small> **Knudsen, Laurits Stapput** (2021). Sådan skæres kagen: substans og struktur. *Mål og Mæle*, 42(1), 11-18. (English: How to Cut the Cake: Substance and Structure). [PDF](https://osf.io/g8ds3)
 
 <small> **Knudsen, Laurits Stapput** (2021). *Pragmatisk og syntaktisk indflydelse på pronomenbestemmelse: En psykolingvistisk undersøgelse af possessivpronomeners referencebestemmelse i dansk*. Speciale, Københavns Universitet. (Pragmatic and Syntactic Influence on Pronoun Resolution: A Psycholinguistic Study of the Coreference Resolution of Danish Possessive Pronouns. Master's thesis, University of Copenhagen) [PDF](https://osf.io/wg5vf) [GitHub repo](https://github.com/lstapputknudsen/pronoun-resolution-in-danish_masters-thesis)
