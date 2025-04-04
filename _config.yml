@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Laurits Stapput Knudsen, PhD"
+  name             : "Laurits Stapput Knudsen"
   avatar           : "/assets/images/laurits.jpg"
-  bio              : "Linguist"
+  #bio              : "Linguist"
   #email            :
   links:
     - label: "lstapputknudsen@gmail.com"

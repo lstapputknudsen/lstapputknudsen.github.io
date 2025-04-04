@@ -9,6 +9,8 @@ permalink: /
 
 # About me
 
-I'm a linguist from Denmark who completed my PhD at the University of Newcastle in Australia. Using a variety of field methods I research spatial language, culture, and cognition in the Indigenous language Wik-Mungkan. I completed my master’s degree at the University of Copenhagen in Functional and Cognitive Linguistics.
+I'm a field linguist from Denmark who study Indigenous Australian and Mesoamerican languages. 
 
-My primary research interests are within the fields of anthropological linguistics, cognitive science, and semantic typology.
+My primary research interests are within the fields of anthropological linguistics, cognitive science, and semantic typology, with a strong focus on spatial language.
+
+I completed my PhD at the University of Newcastle (Australia) and my master’s degree at the University of Copenhagen in Functional and Cognitive Linguistics.
