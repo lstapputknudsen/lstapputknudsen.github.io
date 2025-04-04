@@ -11,9 +11,9 @@ permalink: /cv/
 
 ## Education
 
-<small> **PhD Candidate, linguistics**, University of Newcastle (Australia), 2021-  
+<small> **PhD, linguistics**, University of Newcastle (Australia), 2021-2025
 
-* <small> Thesis title: *Language, Landscape, Culture, and Cognition in Wik-MUngkan: A sociotopographic study of spatial grammar*   
+* <small> Thesis title: *Language, Landscape, Culture, and Cognition in Wik-Mungkan: A sociotopographic study of spatial grammar*   
 Supervisors: Prof. Bill Palmer and Dr Catriona Malau </small>
 
 <small> **MA, Linguistics**, University of Copenhagen, 2021    

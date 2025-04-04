@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/flat.JPG
 ---
 
-Research interests
+# Research interests
 
 ## Anthropological linguistics
 

@@ -9,6 +9,6 @@ permalink: /
 
 # About me
 
-I'm a linguist from Denmark and a PhD Candidate at the University of Newcastle in Australia. I currently research spatial language, culture, and cognition in Wik-Mungkan as part of the [OzSpace project](https://www.ozspace.org). I completed my master’s degree at the University of Copenhagen in Functional and Cognitive Linguistics.
+I'm a linguist from Denmark who completed my PhD at the University of Newcastle in Australia. Using a variety of field methods I research spatial language, culture, and cognition in the Indigenous language Wik-Mungkan. I completed my master’s degree at the University of Copenhagen in Functional and Cognitive Linguistics.
 
 My primary research interests are within the fields of anthropological linguistics, cognitive science, and semantic typology.
