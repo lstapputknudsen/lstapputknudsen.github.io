@@ -11,7 +11,7 @@ permalink: /cv/
 
 ## Employment
 
-<small> **Postdoc, linguistics, Lund University (Sweden), 2025-
+<small> **Postdoc**, linguistics, Lund University (Sweden), 2025-
 * <small> Employed on the ERC project ['Walking while Talking: A Cross-Linguistic Study of the Moving Speech Situation among Mobile Foragers'](https://portal.research.lu.se/en/projects/walking-while-talking-a-cross-linguistic-study-of-the-moving-spee/). PI: Karolin Obert.  </small>
 
 ## Education
@@ -126,4 +126,5 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 <small> **Member of organising committee, Sprogvidenskabelig Studenterkonference,** 2016-2020
 
 <small> **Chairman, linguistic Student Council, University of Copenhagen,** 2016-2019
+
 
