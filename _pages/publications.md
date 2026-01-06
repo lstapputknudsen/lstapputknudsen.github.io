@@ -14,7 +14,7 @@ header:
 
 <small> **Knudsen, Laurits Stapput**, & Bill Palmer (2025). Contextualizing "cardinals": The semantics of geocentric terms in Wik-Mungkan. *Australian Journal of Linguistics* vol. 45, issue 1. https://doi.org/10.1080/07268602.2024.2423090
 
-<small> **Knudsen, Laurits Stapput** (2025). *Language, landscape, cognition and culture in Wik-Mungkan: A sociotopographic study of spatial grammar.* PhD Thesis, University of Newcastle. [download](https://nova.newcastle.edu.au/vital/access/manager/Repository?view=null&f0=sm_identifier%3A%22http%3A%2F%2Fhdl.handle.net%2F1959.13%2F1519423%22&sort=null)
+<small> **Knudsen, Laurits Stapput** (2025). *Language, landscape, cognition and culture in Wik-Mungkan: A sociotopographic study of spatial grammar.* PhD Thesis, University of Newcastle. [download](https://hdl.handle.net/1959.13/1519423)
 
 <small> Eleanor Yacopetti, **Knudsen, Laurits Stapput**, & Tom Ennever (2025). Posture verbs in locative and existential predication across three Australian languages. In Däbritz, Bastille, Budzisch (eds.), *Locative and existential predication: On forms, functions and neighboring domains*, 403-442. Berlin: Language Science Press. DOI: 10.5281/zenodo.16838082. [download](https://zenodo.org/records/16838082)
 
