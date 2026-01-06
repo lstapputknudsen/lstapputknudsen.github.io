@@ -9,6 +9,11 @@ permalink: /cv/
 
 # CV
 
+## Employment
+
+<small> **Postdoc, linguistics, Lund University (Sweden), 2025-
+* <small> Employed on the ERC project ['Walking while Talking: A Cross-Linguistic Study of the Moving Speech Situation among Mobile Foragers'](https://portal.research.lu.se/en/projects/walking-while-talking-a-cross-linguistic-study-of-the-moving-spee/). PI: Karolin Obert.  </small>
+
 ## Education
 
 <small> **PhD, linguistics**, University of Newcastle (Australia), 2021-2025
@@ -26,6 +31,10 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 
 ## Teaching experience
 
+<small> **Guest lecturer**, Lund University, 2025, Field methods class</small>  
+
+<small> **Guest lecturer**, University of Texas, Austin, 2025</small>  
+
 <small> **Lecturer**, University of Newcastle, 2023
 * <small> Lectured into the graduate level course Foundation of Linguistics (LING6910). I covered phonetics and phonology </small>
 
@@ -33,7 +42,6 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 * <small> Ran the tutorials for the first year course Introduction to Linguistics (LING1111) </small>
 
 <small> **Sprogliga**, 2017-2019  
-
 * <small> I have been responsible for teaching general linguistics and problem solving to Danish high schoolers to prepare them for participation in the IOL (International Linguistics Olympiad). </small>
 
 <small> **TalentCampDK**, 2016-2019  
@@ -118,3 +126,4 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 <small> **Member of organising committee, Sprogvidenskabelig Studenterkonference,** 2016-2020
 
 <small> **Chairman, linguistic Student Council, University of Copenhagen,** 2016-2019
+
