@@ -16,9 +16,9 @@ header:
 
 <small> **Knudsen, Laurits Stapput** (2025). *Language, landscape, cognition and culture in Wik-Mungkan: A sociotopographic study of spatial grammar.* PhD Thesis, University of Newcastle. [download](https://nova.newcastle.edu.au/vital/access/manager/Repository?view=null&f0=sm_identifier%3A%22http%3A%2F%2Fhdl.handle.net%2F1959.13%2F1519423%22&sort=null)
 
-<small> **Knudsen, Laurits Stapput**, & Magnus Pharao Hansen (submitted). Frames of Reference in Nahuan Languages. In Pharao Hansen, Magnus (ed.) *Nahuatl space: Diversity of Landscape and Spatial Grammar among Nahuan Languages*.
+<small> Eleanor Yacopetti, **Knudsen, Laurits Stapput**, & Tom Ennever (2025). Posture verbs in locative and existential predication across three Australian languages. In Däbritz, Bastille, Budzisch (eds.), *Locative and existential predication: On forms, functions and neighboring domains*, 403-442. Berlin: Language Science Press. DOI: 10.5281/zenodo.16838082. [download](https://zenodo.org/records/16838082)
 
-<small> Eleanor Yacopetti, **Knudsen, Laurits Stapput**, & Tom Ennever (forthcoming). Posture verbs in locative and existential predication across three Australian languages. In Däbritz, Bastille, Budzisch (eds.), *Locative and Existential predication - core and perphery*.
+<small> **Knudsen, Laurits Stapput**, & Magnus Pharao Hansen (submitted). Frames of Reference in Nahuan Languages. In Pharao Hansen, Magnus (ed.) *Nahuatl space: Diversity of Landscape and Spatial Grammar among Nahuan Languages*.
 
 <small> **Knudsen, Laurits Stapput** (2021). Sådan skæres kagen: substans og struktur. *Mål og Mæle*, 42(1), 11-18. (English: How to Cut the Cake: Substance and Structure). [PDF](https://osf.io/g8ds3)
 
@@ -28,17 +28,25 @@ header:
 
 <small> **Knudsen, Laurits Stapput** (2018). *Reciprokke konstruktioner i Acazulco Otomí*. BA opgave, Københavns Universitet. (Reciprocal Constructions in Acazulco Otomí. BA Thesis, University of Copenhagen) [PDF](https://osf.io/cgqdw)
 
-### Talks
+### Conference presentations
 
-<small> **Knudsen, Laurits Stapput**, Tom Ennever, Jonathon Lum & Eleanor Yacopetti (2024). Re-framing Frames of Reference: 30 years of Man and Tree. 9th International Conference on Spatial Cognition. (Università Europea di Roma, Italy)
+<small> **Knudsen, Laurits Stapput** (2025). *Temporal expressions during walking in Wik-Mungkan.* Presented at the conference of the Australian Linguistic Society. 3 December (Griffith University, Australia).
 
-<small> **Knudsen, Laurits Stapput** & Bill Palmer (2024). Environmental sensitivity and conceptual representations of geocentric spatial terms in Wik-Mungkan (Australia). 9th International Conference on Spatial Cognition. (Università Europea di Roma, Italy)
+<small> **Knudsen, Laurits Stapput** (2025). *Patterns of variation in spatial reference.* Guest lecture at University of Texas, Austin.
 
-<small> **Knudsen, Laurits Stapput** (2024). Language and landscape: anchoring meaning in the environment. Newcastle Social Science and Linguistics Seminar series.
+<small> **Knudsen, Laurits Stapput** (2025). *Samspillet mellem kasus og rumlig reference i demonstrativsystemet i wik-mungkan (Australien).* (english: The interplay between case and spatial reference in the demonstrative system of Wik-Mungkan). Presented at Grammatiknetværkets årsmøde 2025 (Odense, Denmark)
 
-<small> **Knudsen, Laurits Stapput**, & Bill Palmer (2023). *Contextualising cardinals: The semantics of geocentric terms in Wik-Mungkan*. Presented at the conference of the Australian Linguistic Society. 30 Nov, University of Sydney.
+<small> A sociotopographic study of spatial language and cognition in four Indigenous Australian communities
+
+<small> **Knudsen, Laurits Stapput**, Tom Ennever, Jonathon Lum & Eleanor Yacopetti (2024). *Re-framing Frames of Reference: 30 years of Man and Tree*. 9th International Conference on Spatial Cognition. (Università Europea di Roma, Italy)
+
+<small> **Knudsen, Laurits Stapput** & Bill Palmer (2024). *Environmental sensitivity and conceptual representations of geocentric spatial terms in Wik-Mungkan (Australia)*. 9th International Conference on Spatial Cognition. (Università Europea di Roma, Italy)
+
+<small> **Knudsen, Laurits Stapput** (2024). *Language and landscape: anchoring meaning in the environment*. Newcastle Social Science and Linguistics Seminar series.
 
 <small> **Knudsen, Laurits Stapput** (2023). *Anchoring semantics in the landscape: Environmental and contextual influences on spatial reference in Wik-Mungkan*. Invited talk at University of Southern Denmark, Sep 20.
+
+<small> **Knudsen, Laurits Stapput**, & Bill Palmer (2023). *Contextualising cardinals: The semantics of geocentric terms in Wik-Mungkan*. Presented at the conference of the Australian Linguistic Society. 30 Nov (University of Sydney, Australia).
 
 <small> **Knudsen, Laurits Stapput**, Tom Ennever, & Eleanor Yacopetti (2023). *Postural verbs and their roles in locative and existential predication in three Australian languages*. Presented at the 56th Annual Meeting of the Societas Linguistica Europaea. 29 Aug - 1 Sept, National and Kapodistrian University of Athens, Greece. 
 
