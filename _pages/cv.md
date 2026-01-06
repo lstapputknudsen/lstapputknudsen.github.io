@@ -117,6 +117,10 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 
 ## Posts of responsibility
 
+<small> **Member of the organizing committee for the annual meeting of Grammatiknetværket**, 2026
+
+<small> **Member of the committee for endangered languages**, the Linguistic Circle of Copenhagen, 2024-
+
 <small> **Member of quota 2-admission committee, Linguistics,** University of Copenhagen, 2020
 
 <small> **Team Leader for the Danish IOL (International Linguistics Olympiad) team,** 2017-2020
@@ -126,6 +130,7 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 <small> **Member of organising committee, Sprogvidenskabelig Studenterkonference,** 2016-2020
 
 <small> **Chairman, linguistic Student Council, University of Copenhagen,** 2016-2019
+
 
 
 
