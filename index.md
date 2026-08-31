@@ -9,9 +9,9 @@ permalink: /
 
 # About me
 
-I'm a field linguist from Denmark who study Indigenous Australian and Mesoamerican languages. I am currently working as a postdoc at Lund University on the ERC-funded project [Walking while Talking](https://projekt.ht.lu.se/walk-and-talk).
+I study how people make sense of their surroundings through language.
 
-My primary research interests are within the fields of anthropological linguistics, cognitive science, and semantic typology, with a strong focus on spatial language.
+Based at Lund University as a postdoc on the ERC project [Walking while Talking](https://projekt.ht.lu.se/walk-and-talk), I combine long-term fieldwork in Indigenous Australian and Mesoamerican communities with geospatial and quantitative methods to trace how spatial grammar tracks environment, movement, and social identity.
 
-I completed my PhD at the University of Newcastle (Australia) and my master’s degree at the University of Copenhagen in Functional and Cognitive Linguistics.
+PhD, University of Newcastle (Australia); MA, University of Copenhagen.
 
