@@ -20,11 +20,11 @@ header:
 
 <small> **Knudsen, Laurits Stapput** (forthcoming). Forholdet mellem kasus og rumlig betydning i demonstrativsystemet i wik-mungkan (English: The relationship between case and spatial meaning in the demonstrative system of Wik-Mungkan). *Ny forskning i grammatik* (33), p. 76-94. (English version available upon request)
 
+<small> **Knudsen, Laurits Stapput**, & Magnus Pharao Hansen (forthcoming). Frames of Reference in Nahuan Languages. In Pharao Hansen, Magnus (ed.) *Nahuatl space: Diversity of Landscape and Spatial Grammar among Nahuan Languages*.
+
 <small> **Knudsen, Laurits Stapput**, & Bill Palmer (2025). Contextualizing "cardinals": The semantics of geocentric terms in Wik-Mungkan. *Australian Journal of Linguistics* vol. 45, issue 1. https://doi.org/10.1080/07268602.2024.2423090
 
 <small> Eleanor Yacopetti, **Laurits Stapput Knudsen**, & Tom Ennever (2025). Posture verbs in locative and existential predication across three Australian languages. In Däbritz, Bastille, Budzisch (eds.), *Locative and existential predication: On forms, functions and neighboring domains*, 403-442. Berlin: Language Science Press. DOI: 10.5281/zenodo.16838082. [download](https://zenodo.org/records/16838082)
-
-<small> **Knudsen, Laurits Stapput**, & Magnus Pharao Hansen (forthcoming). Frames of Reference in Nahuan Languages. In Pharao Hansen, Magnus (ed.) *Nahuatl space: Diversity of Landscape and Spatial Grammar among Nahuan Languages*.
 
 <small> **Knudsen, Laurits Stapput** (2021). Sådan skæres kagen: substans og struktur. *Mål og Mæle*, 42(1), 11-18. (English: How to Cut the Cake: Substance and Structure). [PDF](https://osf.io/g8ds3)
 
