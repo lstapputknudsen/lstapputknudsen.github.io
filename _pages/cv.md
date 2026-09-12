@@ -33,7 +33,7 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 
 <small> **Guest lecturer**, Lund University, 2025, Field methods class</small>  
 
-<small> **Guest lecturer**, University of Texas, Austin, 2025</small>  
+<small> **Guest speaker**, University of Texas, Austin, 2025, 2026 </small>  
 
 <small> **Lecturer**, University of Newcastle, 2023
 * <small> Lectured into the graduate level course Foundation of Linguistics (LING6910). I covered phonetics and phonology </small>
@@ -53,7 +53,7 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 
 <small>**Linguistic software:** ELAN, FLEx, Praat, AegisSub </small>  
 <small>**Basic programming:** R, Python, LaTeX </small>  
-<small>**Geo-information:** QGIS</small>  
+<small>**Geo-information:** QGIS, GeoELAN </small>  
 
 ### Languages
 
@@ -70,7 +70,7 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 * <small> Geospatial methodologies
 * <small> Experimental design (mouse-tracking, eye-tracking)
 * <small> Production of elicitation materials
-* <small> Instructing team members in specialised software and data collection
+* <small> Instructing team members in specialized software and data collection
 * <small> Public presentation, academic publication
 
 ## Research experience
@@ -117,17 +117,17 @@ Supervisor: Prof. Elisabeth Engberg-Pedersen </small>
 
 ## Posts of responsibility
 
-<small> **Member of the organizing committee for the annual meeting of Grammatiknetværket**, 2026
+<small> **Member of committee, the Linguistic Circle of Copenhagen,** 2016-2020, 2026-
 
 <small> **Member of the committee for endangered languages**, the Linguistic Circle of Copenhagen, 2024-
+
+<small> **Member of the organizing committee for the annual meeting of Grammatiknetværket**, 2026
 
 <small> **Member of quota 2-admission committee, Linguistics,** University of Copenhagen, 2020
 
 <small> **Team Leader for the Danish IOL (International Linguistics Olympiad) team,** 2017-2020
 
-<small> **Member of committee, the Linguistic Circle of Copenhagen,** 2016-2020
-
-<small> **Member of organising committee, Sprogvidenskabelig Studenterkonference,** 2016-2020
+<small> **Member of organizing committee, Sprogvidenskabelig Studenterkonference,** 2016-2020
 
 <small> **Chairman, linguistic Student Council, University of Copenhagen,** 2016-2019
 
